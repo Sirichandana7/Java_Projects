@@ -1,10 +1,12 @@
 # Java_Projects
-#Project Title: Server Management REST API
+Project Title: Server Management REST API
 
 Step 1: Set Up Your Project
+
 1)Create a new Spring Boot project using your favorite IDE or Spring Initializer (https://start.spring.io/). Add the following dependencies:
  . Spring Web
  . Spring Data MongoDB
+ 
 2)Generate the project and open it in your IDE.
 
 Step 2: Create the Server Entity
