@@ -1,5 +1,5 @@
 # Java_Projects
-Project Title: Server Management REST API
+Task 1 : Java REST API
 
 Step 1: Set Up Your Project
 
