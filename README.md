@@ -144,14 +144,20 @@ You can test the API endpoints using tools like Postman or curl here i have used
 SCREENSHOTS OF INPUT :
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/60499731-8804-437b-ad8d-b9900a74acbb)
 
-GET servers
+GET servers : Should return all the servers if no parameters are passed. When server id
+is passed as a parameter - return a single server or 404 if there’s no such a server.
+
+![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/651e0587-fa9a-4c45-8552-2a24acefe56e)
+
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/aa66b5b3-a299-4ecf-be93-4ca795340245)
 
-PUT a server.
+PUT a server :  The server object is passed as a json-encoded message body.
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/63a33c45-fc83-46ec-b9ae-8486983ef08f)
 
+
+DELETE a server :  The parameter is a server ID.
 Here i Have deleted  by id = 2
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/110e3356-e743-4f72-ab20-2d60753bcb85)
@@ -159,7 +165,8 @@ Here i Have deleted  by id = 2
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/c43d4076-bb32-4d1a-8bb4-6645d799a4ff)
 
-GET (find) servers by name.
+GET (find) servers by name : The parameter is a string. Must check if a server name
+contains this string and return one or more servers found. Return 404 if nothing is found.
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/c9da43e1-8fb8-468e-9be2-f28e9a3f0c75)
 
