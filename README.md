@@ -141,7 +141,8 @@ Step 7: Test the API
 
 You can test the API endpoints using tools like Postman or curl here i have used postman to create and test the API end points
 
-SCREENSHOTS OF INPUT :
+SCREENSHOTS OF INPUT AND OUTPUT :
+
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/60499731-8804-437b-ad8d-b9900a74acbb)
 
 GET servers : Should return all the servers if no parameters are passed. When server id
