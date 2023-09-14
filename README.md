@@ -144,13 +144,18 @@ You can test the API endpoints using tools like Postman or curl here i have used
 SCREENSHOTS OF INPUT :
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/60499731-8804-437b-ad8d-b9900a74acbb)
 
+GET servers
+
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/aa66b5b3-a299-4ecf-be93-4ca795340245)
+
+PUT a server.
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/63a33c45-fc83-46ec-b9ae-8486983ef08f)
 
+Here i Have deleted  by id = 2
+
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/110e3356-e743-4f72-ab20-2d60753bcb85)
 
-Here i Have deleted  by id = 2
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/c43d4076-bb32-4d1a-8bb4-6645d799a4ff)
 
