@@ -3,7 +3,7 @@ Task 1 : Java REST API
 
 Step 1: Set Up Your Project
 
-1)Create a new Spring Boot project using your favorite IDE or Spring Initializer (https://start.spring.io/). Add the following dependencies:
+1)Create a new Spring Boot project using Spring Initializer (https://start.spring.io/). Add the following dependencies:
  . Spring Web
  . Spring Data MongoDB
  
