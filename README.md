@@ -169,6 +169,9 @@ Here i Have deleted  by id = 2
 GET (find) servers by name : The parameter is a string. Must check if a server name
 contains this string and return one or more servers found. Return 404 if nothing is found.
 
+![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/cc74c5e9-831b-46db-a18a-df3708410ed9)
+
+
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/c9da43e1-8fb8-468e-9be2-f28e9a3f0c75)
 
 
