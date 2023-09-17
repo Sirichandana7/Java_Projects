@@ -1,4 +1,4 @@
-# Java_Projects
+# Java_Project using API
 Task 1 : Java REST API
 
 Step 1: Set Up Your Project
