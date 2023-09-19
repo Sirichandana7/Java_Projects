@@ -134,7 +134,8 @@ public class ServerController {
 	                new ResponseEntity<>(HttpStatus.NOT_FOUND);
 	    }
     }
-}
+    }
+
 
 
 Step 5: Configure MongoDB
