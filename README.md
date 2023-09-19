@@ -124,7 +124,9 @@ public class ServerController {
         
             return ResponseEntity.notFound().build();
         }
+	
         @GetMapping("/findByName/{name}")
+	
 	    public ResponseEntity<List<Server>> findServersByName(@PathVariable("name") String name) {
 	        List<Server> server =  serverRepository.findByNameContaining(name);
 	        return server.size() != 0?
