@@ -159,11 +159,8 @@ is passed as a parameter - return a single server or 404 if there’s no such a 
 
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/f0a7191e-ccd5-4ffa-a2af-a36585eaf83c)
 
+![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/4077b9aa-f979-49b3-9aa9-a4e550ed5290)
 
-![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/651e0587-fa9a-4c45-8552-2a24acefe56e)
-
-
-![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/aa66b5b3-a299-4ecf-be93-4ca795340245)
 
 PUT a server :  The server object is passed as a json-encoded message body.
 
