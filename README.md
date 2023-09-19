@@ -157,6 +157,9 @@ SCREENSHOTS OF INPUT AND OUTPUT :
 GET servers : Should return all the servers if no parameters are passed. When server id
 is passed as a parameter - return a single server or 404 if there’s no such a server.
 
+![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/f0a7191e-ccd5-4ffa-a2af-a36585eaf83c)
+
+
 ![image](https://github.com/Sirichandana7/Java_Projects/assets/83815075/651e0587-fa9a-4c45-8552-2a24acefe56e)
 
 
